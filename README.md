@@ -20,7 +20,7 @@ To implement ElGamal Algorithm.
 
    * Compute public key:
 
-y = g^x \bmod p
+          y = g^x (mod p)
 
 * Public key: `(p, g, y)`
 * Private key: `x`
